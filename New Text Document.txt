@@ -2,9 +2,10 @@
        <header> </header>
        <title> badr moussaoui </title>
        <body>
+       <div>
              <h1>badr moussoui</h1>
-             <p> i am a student from fes i finished my first year of baccalauret.i wanted to have this experience since computer programming is the language of the century.after two days of learnig basics about computer science i found out that learning how to manipulite a computer and using it easily
-            </p>
+             <p> i am a student from fes i finished my first year of baccalauret.i wanted to have this experience since computer programming is the language of the century.after two days of learnig basics about computer science i found out that learning how to manipulite a computer and using it easily </p>
+       </div>
 
        </body>
              <footer></footer>
