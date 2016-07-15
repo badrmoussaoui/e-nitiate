@@ -1,6 +1,6 @@
 <html>
-       <header> </header>
-       <title> badr moussaoui </title>
+   <header> </header>
+      <title> badr moussaoui </title>
        <body>
        <div>
              <h1>badr moussoui</h1>
@@ -8,5 +8,5 @@
        </div>
 
        </body>
-             <footer>made with lol</footer>
+       <footer>made with lol</footer>
 </html>
